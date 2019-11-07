@@ -1,0 +1,12 @@
+numpy
+librosa
+wave
+math
+time
+py2exe
+h5py
+scipy
+skimage
+keras
+tensorflow
+magenta
